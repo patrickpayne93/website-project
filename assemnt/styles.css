@@ -1,0 +1,77 @@
+h1 {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+.coffee-bar-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.coffee-bar{ 
+    width: 50%;
+}
+
+
+#navbar {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  background-color: rgb(247, 254, 254);
+  height: 50px;
+}
+#home {
+  display: flex;
+  justify-content: left;
+  background-color: rgb(255, 254, 254);
+  width: 150px;
+  height: 50px;
+}
+#pages {
+  display: flex;
+  justify-content: space-around;
+  background-color: rgb(253, 253, 253);
+  width: 150px;
+  height: 50px;
+}
+#bottomnavbar{
+    text-align: center;
+}
+#cafe {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#ice img{
+  display:flex;
+  width: 80%;
+  height: 75%;
+}
+#latte img{
+  display: flex;
+  width: 80%;
+  height: 75%;
+}
+#espresso img{
+  display: flex;
+  width: 70%;
+  height: 75%;
+}
+#pastries {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#bread img{
+  display:flex;
+  width: 70%;
+}
+#cookies img{
+  display: flex;
+  width: 70%;
+}
+#croissant img{
+  display: flex;
+  width: 80%;
+}
